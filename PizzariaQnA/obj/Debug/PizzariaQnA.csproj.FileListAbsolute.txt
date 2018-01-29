@@ -1,0 +1,62 @@
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Bot Application.dll.config
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Bot Application.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Bot Application.pdb
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Autofac.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Chronic.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Builder.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Connector.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Newtonsoft.Json.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.Net.Http.Formatting.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.Web.Http.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.Web.Http.WebHost.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Autofac.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Builder.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.Bot.Connector.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\Newtonsoft.Json.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.Net.Http.Formatting.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.Web.Http.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\System.Web.Http.WebHost.xml
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\obj\Debug\PizzariaQnA.csproj.CoreCompileInputs.cache
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\obj\Debug\Bot Application.dll
+C:\Users\lucaspolaquini\Desktop\Maratora Bots\Sources\PizzariaQnA\PizzariaQnA\obj\Debug\Bot Application.pdb
